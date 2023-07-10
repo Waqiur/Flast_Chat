@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002175375582",
+    "project_id": "flast-chat-d07d8",
+    "storage_bucket": "flast-chat-d07d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002175375582:android:059e7ad3191df90ddffa4f",
+        "android_client_info": {
+          "package_name": "com.example.flast_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002175375582-faspghrc0tiqakcb0i2jmokl7lokdv6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2T5QRPzvGhk8os_pjVSn3ptXSb1OHGjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002175375582-faspghrc0tiqakcb0i2jmokl7lokdv6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
